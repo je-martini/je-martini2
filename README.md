@@ -6,7 +6,7 @@ I Studied and obtain certificates in Technologies such as Solidity where I made 
 
 Skills: Solidity / Node / React.JS / Web3.Js / JS / CSS / HTML  
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Coriumbycm.com. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/je-martini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jesus-martini//)  
